@@ -1,0 +1,13 @@
+C:\Users\Minur Memizade\source\repos\NTierApp.Core\bin\Debug\net8.0\NTierApp.Core.deps.json
+C:\Users\Minur Memizade\source\repos\NTierApp.Core\bin\Debug\net8.0\NTierApp.Core.dll
+C:\Users\Minur Memizade\source\repos\NTierApp.Core\bin\Debug\net8.0\NTierApp.Core.pdb
+C:\Users\Minur Memizade\source\repos\NTierApp.Core\obj\Debug\net8.0\NTierApp.Core.csproj.AssemblyReference.cache
+C:\Users\Minur Memizade\source\repos\NTierApp.Core\obj\Debug\net8.0\NTierApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minur Memizade\source\repos\NTierApp.Core\obj\Debug\net8.0\NTierApp.Core.AssemblyInfoInputs.cache
+C:\Users\Minur Memizade\source\repos\NTierApp.Core\obj\Debug\net8.0\NTierApp.Core.AssemblyInfo.cs
+C:\Users\Minur Memizade\source\repos\NTierApp.Core\obj\Debug\net8.0\NTierApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Minur Memizade\source\repos\NTierApp.Core\obj\Debug\net8.0\NTierApp.Core.sourcelink.json
+C:\Users\Minur Memizade\source\repos\NTierApp.Core\obj\Debug\net8.0\NTierApp.Core.dll
+C:\Users\Minur Memizade\source\repos\NTierApp.Core\obj\Debug\net8.0\refint\NTierApp.Core.dll
+C:\Users\Minur Memizade\source\repos\NTierApp.Core\obj\Debug\net8.0\NTierApp.Core.pdb
+C:\Users\Minur Memizade\source\repos\NTierApp.Core\obj\Debug\net8.0\ref\NTierApp.Core.dll
