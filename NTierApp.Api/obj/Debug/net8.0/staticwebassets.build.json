@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "i1sPyAvvb+2BBSUi3qW5M0GQ4pF1ulDstrnDQoFDx4c=",
+  "Source": "NTierApp.Api",
+  "BasePath": "_content/NTierApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

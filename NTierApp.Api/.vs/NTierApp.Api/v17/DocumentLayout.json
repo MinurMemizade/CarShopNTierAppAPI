@@ -1,0 +1,448 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5639972E-C7D1-4F30-AA08-F66A85FAE565}|NTierApp.Api.csproj|c:\\users\\minur memizade\\source\\repos\\ntierapp.api\\apidependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5639972E-C7D1-4F30-AA08-F66A85FAE565}|NTierApp.Api.csproj|solutionrelative:apidependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5639972E-C7D1-4F30-AA08-F66A85FAE565}|NTierApp.Api.csproj|c:\\users\\minur memizade\\source\\repos\\ntierapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5639972E-C7D1-4F30-AA08-F66A85FAE565}|NTierApp.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5639972E-C7D1-4F30-AA08-F66A85FAE565}|NTierApp.Api.csproj|c:\\users\\minur memizade\\source\\repos\\ntierapp.api\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5639972E-C7D1-4F30-AA08-F66A85FAE565}|NTierApp.Api.csproj|solutionrelative:controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5639972E-C7D1-4F30-AA08-F66A85FAE565}|NTierApp.Api.csproj|c:\\users\\minur memizade\\source\\repos\\ntierapp.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5639972E-C7D1-4F30-AA08-F66A85FAE565}|NTierApp.Api.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3FC80D-DD6D-43C1-A1AE-9DF714EAE390}|..\\NTierApp.Bussiness\\NTierApp.Bussiness.csproj|c:\\users\\minur memizade\\source\\repos\\ntierapp.bussiness\\services\\abstractions\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3FC80D-DD6D-43C1-A1AE-9DF714EAE390}|..\\NTierApp.Bussiness\\NTierApp.Bussiness.csproj|c:\\users\\minur memizade\\source\\repos\\ntierapp.bussiness\\services\\abstractions\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3FC80D-DD6D-43C1-A1AE-9DF714EAE390}|..\\NTierApp.Bussiness\\NTierApp.Bussiness.csproj|c:\\users\\minur memizade\\source\\repos\\ntierapp.bussiness\\dtos\\userdto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3FC80D-DD6D-43C1-A1AE-9DF714EAE390}|..\\NTierApp.Bussiness\\NTierApp.Bussiness.csproj|c:\\users\\minur memizade\\source\\repos\\ntierapp.bussiness\\dtos\\userdto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5639972E-C7D1-4F30-AA08-F66A85FAE565}|NTierApp.Api.csproj|c:\\users\\minur memizade\\source\\repos\\ntierapp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5639972E-C7D1-4F30-AA08-F66A85FAE565}|NTierApp.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB46D994-F9B8-4AF3-8856-11491A5FB289}|..\\NTierApp.Core\\NTierApp.Core.csproj|c:\\users\\minur memizade\\source\\repos\\ntierapp.core\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3FC80D-DD6D-43C1-A1AE-9DF714EAE390}|..\\NTierApp.Bussiness\\NTierApp.Bussiness.csproj|c:\\users\\minur memizade\\source\\repos\\ntierapp.bussiness\\businessdependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3FC80D-DD6D-43C1-A1AE-9DF714EAE390}|..\\NTierApp.Bussiness\\NTierApp.Bussiness.csproj|c:\\users\\minur memizade\\source\\repos\\ntierapp.bussiness\\services\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3FC80D-DD6D-43C1-A1AE-9DF714EAE390}|..\\NTierApp.Bussiness\\NTierApp.Bussiness.csproj|c:\\users\\minur memizade\\source\\repos\\ntierapp.bussiness\\helpers\\jwtgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D53208-6647-44BE-AD5A-3E45372DF770}|..\\NTierApp.Dal\\NTierApp.Dal.csproj|c:\\users\\minur memizade\\source\\repos\\ntierapp.dal\\context\\appdbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB46D994-F9B8-4AF3-8856-11491A5FB289}|..\\NTierApp.Core\\NTierApp.Core.csproj|c:\\users\\minur memizade\\source\\repos\\ntierapp.core\\enums\\euserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029CABA9-F369-4D14-A4DF-B5BC058CF38E}|..\\NTierApp.Shared\\NTierApp.Shared.csproj|c:\\users\\minur memizade\\source\\repos\\ntierapp.shared\\interfaces\\iclaimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3FC80D-DD6D-43C1-A1AE-9DF714EAE390}|..\\NTierApp.Bussiness\\NTierApp.Bussiness.csproj|c:\\users\\minur memizade\\source\\repos\\ntierapp.bussiness\\dtos\\userdto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D53208-6647-44BE-AD5A-3E45372DF770}|..\\NTierApp.Dal\\NTierApp.Dal.csproj|c:\\users\\minur memizade\\source\\repos\\ntierapp.dal\\migrations\\20241030141703_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3FC80D-DD6D-43C1-A1AE-9DF714EAE390}|..\\NTierApp.Bussiness\\NTierApp.Bussiness.csproj|c:\\users\\minur memizade\\source\\repos\\ntierapp.bussiness\\dtos\\validator\\baseentityvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3FC80D-DD6D-43C1-A1AE-9DF714EAE390}|..\\NTierApp.Bussiness\\NTierApp.Bussiness.csproj|c:\\users\\minur memizade\\source\\repos\\ntierapp.bussiness\\dtos\\commons\\iauditedentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3FC80D-DD6D-43C1-A1AE-9DF714EAE390}|..\\NTierApp.Bussiness\\NTierApp.Bussiness.csproj|c:\\users\\minur memizade\\source\\repos\\ntierapp.bussiness\\dtos\\commons\\baseentitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB46D994-F9B8-4AF3-8856-11491A5FB289}|..\\NTierApp.Core\\NTierApp.Core.csproj|c:\\users\\minur memizade\\source\\repos\\ntierapp.core\\entities\\identity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D53208-6647-44BE-AD5A-3E45372DF770}|..\\NTierApp.Dal\\NTierApp.Dal.csproj|c:\\users\\minur memizade\\source\\repos\\ntierapp.dal\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D53208-6647-44BE-AD5A-3E45372DF770}|..\\NTierApp.Dal\\NTierApp.Dal.csproj|c:\\users\\minur memizade\\source\\repos\\ntierapp.dal\\context\\automatedmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D53208-6647-44BE-AD5A-3E45372DF770}|..\\NTierApp.Dal\\NTierApp.Dal.csproj|c:\\users\\minur memizade\\source\\repos\\ntierapp.dal\\migrations\\20241028195813_first.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029CABA9-F369-4D14-A4DF-B5BC058CF38E}|..\\NTierApp.Shared\\NTierApp.Shared.csproj|c:\\users\\minur memizade\\source\\repos\\ntierapp.shared\\abstractions\\claimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029CABA9-F369-4D14-A4DF-B5BC058CF38E}|..\\NTierApp.Shared\\NTierApp.Shared.csproj|c:\\users\\minur memizade\\source\\repos\\ntierapp.shared\\ntierapp.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5639972E-C7D1-4F30-AA08-F66A85FAE565}|NTierApp.Api.csproj|c:\\users\\minur memizade\\source\\repos\\ntierapp.api\\ntierapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5639972E-C7D1-4F30-AA08-F66A85FAE565}|NTierApp.Api.csproj|solutionrelative:ntierapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:08:19.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:27:52.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Api\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Api\\Controllers\\CarController.cs",
+              "RelativeToolTip": "Controllers\\CarController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:20:50.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "APIDependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Api\\APIDependencyInjection.cs",
+              "RelativeDocumentMoniker": "APIDependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Api\\APIDependencyInjection.cs",
+              "RelativeToolTip": "APIDependencyInjection.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACQAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T20:52:27.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-02T19:14:31.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Bussiness\\Services\\Abstractions\\AccountService.cs",
+              "RelativeDocumentMoniker": "..\\NTierApp.Bussiness\\Services\\Abstractions\\AccountService.cs",
+              "ToolTip": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Bussiness\\Services\\Abstractions\\AccountService.cs",
+              "RelativeToolTip": "..\\NTierApp.Bussiness\\Services\\Abstractions\\AccountService.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAawB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:39:43.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Bussiness\\Services\\Abstractions\\CarService.cs",
+              "RelativeDocumentMoniker": "..\\NTierApp.Bussiness\\Services\\Abstractions\\CarService.cs",
+              "ToolTip": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Bussiness\\Services\\Abstractions\\CarService.cs",
+              "RelativeToolTip": "..\\NTierApp.Bussiness\\Services\\Abstractions\\CarService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:20:43.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Bussiness\\DTOs\\UserDTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "..\\NTierApp.Bussiness\\DTOs\\UserDTO\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Bussiness\\DTOs\\UserDTO\\RegisterDTO.cs",
+              "RelativeToolTip": "..\\NTierApp.Bussiness\\DTOs\\UserDTO\\RegisterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:24:14.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BusinessDependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Bussiness\\BusinessDependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\NTierApp.Bussiness\\BusinessDependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Bussiness\\BusinessDependencyInjection.cs",
+              "RelativeToolTip": "..\\NTierApp.Bussiness\\BusinessDependencyInjection.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAxwCgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:23:03.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Bussiness\\DTOs\\UserDTO\\ResponseDTO.cs",
+              "RelativeDocumentMoniker": "..\\NTierApp.Bussiness\\DTOs\\UserDTO\\ResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Bussiness\\DTOs\\UserDTO\\ResponseDTO.cs",
+              "RelativeToolTip": "..\\NTierApp.Bussiness\\DTOs\\UserDTO\\ResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:24:23.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Bussiness\\Services\\Interfaces\\IAccountService.cs",
+              "RelativeDocumentMoniker": "..\\NTierApp.Bussiness\\Services\\Interfaces\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Bussiness\\Services\\Interfaces\\IAccountService.cs",
+              "RelativeToolTip": "..\\NTierApp.Bussiness\\Services\\Interfaces\\IAccountService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:38:02.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Core\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "..\\NTierApp.Core\\Entities\\Car.cs",
+              "ToolTip": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Core\\Entities\\Car.cs",
+              "RelativeToolTip": "..\\NTierApp.Core\\Entities\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:23:15.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JWTGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Bussiness\\Helpers\\JWTGenerator.cs",
+              "RelativeDocumentMoniker": "..\\NTierApp.Bussiness\\Helpers\\JWTGenerator.cs",
+              "ToolTip": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Bussiness\\Helpers\\JWTGenerator.cs",
+              "RelativeToolTip": "..\\NTierApp.Bussiness\\Helpers\\JWTGenerator.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:21:56.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Bussiness\\DTOs\\UserDTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "..\\NTierApp.Bussiness\\DTOs\\UserDTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Bussiness\\DTOs\\UserDTO\\LoginDTO.cs",
+              "RelativeToolTip": "..\\NTierApp.Bussiness\\DTOs\\UserDTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:24:07.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDBContextSeed.cs",
+              "DocumentMoniker": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Dal\\Context\\AppDBContextSeed.cs",
+              "RelativeDocumentMoniker": "..\\NTierApp.Dal\\Context\\AppDBContextSeed.cs",
+              "ToolTip": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Dal\\Context\\AppDBContextSeed.cs",
+              "RelativeToolTip": "..\\NTierApp.Dal\\Context\\AppDBContextSeed.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwCcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:11:57.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241030141703_second.cs",
+              "DocumentMoniker": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Dal\\Migrations\\20241030141703_second.cs",
+              "RelativeDocumentMoniker": "..\\NTierApp.Dal\\Migrations\\20241030141703_second.cs",
+              "ToolTip": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Dal\\Migrations\\20241030141703_second.cs",
+              "RelativeToolTip": "..\\NTierApp.Dal\\Migrations\\20241030141703_second.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T14:17:04.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BaseEntityValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Bussiness\\DTOs\\Validator\\BaseEntityValidator.cs",
+              "RelativeDocumentMoniker": "..\\NTierApp.Bussiness\\DTOs\\Validator\\BaseEntityValidator.cs",
+              "ToolTip": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Bussiness\\DTOs\\Validator\\BaseEntityValidator.cs",
+              "RelativeToolTip": "..\\NTierApp.Bussiness\\DTOs\\Validator\\BaseEntityValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:28:38.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EUserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Core\\Enums\\EUserRole.cs",
+              "RelativeDocumentMoniker": "..\\NTierApp.Core\\Enums\\EUserRole.cs",
+              "ToolTip": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Core\\Enums\\EUserRole.cs",
+              "RelativeToolTip": "..\\NTierApp.Core\\Enums\\EUserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:13:26.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IClaimService.cs",
+              "DocumentMoniker": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Shared\\Interfaces\\IClaimService.cs",
+              "RelativeDocumentMoniker": "..\\NTierApp.Shared\\Interfaces\\IClaimService.cs",
+              "ToolTip": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Shared\\Interfaces\\IClaimService.cs",
+              "RelativeToolTip": "..\\NTierApp.Shared\\Interfaces\\IClaimService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:33:17.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseEntityDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Bussiness\\DTOs\\Commons\\BaseEntityDTO.cs",
+              "RelativeDocumentMoniker": "..\\NTierApp.Bussiness\\DTOs\\Commons\\BaseEntityDTO.cs",
+              "ToolTip": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Bussiness\\DTOs\\Commons\\BaseEntityDTO.cs",
+              "RelativeToolTip": "..\\NTierApp.Bussiness\\DTOs\\Commons\\BaseEntityDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:26:33.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAuditedEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Bussiness\\DTOs\\Commons\\IAuditedEntity.cs",
+              "RelativeDocumentMoniker": "..\\NTierApp.Bussiness\\DTOs\\Commons\\IAuditedEntity.cs",
+              "ToolTip": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Bussiness\\DTOs\\Commons\\IAuditedEntity.cs",
+              "RelativeToolTip": "..\\NTierApp.Bussiness\\DTOs\\Commons\\IAuditedEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:27:11.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Dal\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\NTierApp.Dal\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Dal\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\NTierApp.Dal\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:52:35.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AutomatedMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Dal\\Context\\AutomatedMigration.cs",
+              "RelativeDocumentMoniker": "..\\NTierApp.Dal\\Context\\AutomatedMigration.cs",
+              "ToolTip": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Dal\\Context\\AutomatedMigration.cs",
+              "RelativeToolTip": "..\\NTierApp.Dal\\Context\\AutomatedMigration.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwBwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:12:21.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Core\\Entities\\Identity\\User.cs",
+              "RelativeDocumentMoniker": "..\\NTierApp.Core\\Entities\\Identity\\User.cs",
+              "ToolTip": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Core\\Entities\\Identity\\User.cs",
+              "RelativeToolTip": "..\\NTierApp.Core\\Entities\\Identity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T09:05:36.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NTierApp.Shared.csproj",
+              "DocumentMoniker": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Shared\\NTierApp.Shared.csproj",
+              "RelativeDocumentMoniker": "..\\NTierApp.Shared\\NTierApp.Shared.csproj",
+              "ToolTip": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Shared\\NTierApp.Shared.csproj",
+              "RelativeToolTip": "..\\NTierApp.Shared\\NTierApp.Shared.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-29T21:32:35.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241028195813_first.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Dal\\Migrations\\20241028195813_first.Designer.cs",
+              "RelativeDocumentMoniker": "..\\NTierApp.Dal\\Migrations\\20241028195813_first.Designer.cs",
+              "ToolTip": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Dal\\Migrations\\20241028195813_first.Designer.cs",
+              "RelativeToolTip": "..\\NTierApp.Dal\\Migrations\\20241028195813_first.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T08:52:25.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ClaimService.cs",
+              "DocumentMoniker": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Shared\\Abstractions\\ClaimService.cs",
+              "RelativeDocumentMoniker": "..\\NTierApp.Shared\\Abstractions\\ClaimService.cs",
+              "ToolTip": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Shared\\Abstractions\\ClaimService.cs",
+              "RelativeToolTip": "..\\NTierApp.Shared\\Abstractions\\ClaimService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:34:05.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NTierApp.Api.http",
+              "DocumentMoniker": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Api\\NTierApp.Api.http",
+              "RelativeDocumentMoniker": "NTierApp.Api.http",
+              "ToolTip": "C:\\Users\\Minur Memizade\\source\\repos\\NTierApp.Api\\NTierApp.Api.http",
+              "RelativeToolTip": "NTierApp.Api.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-29T21:08:17.735Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
